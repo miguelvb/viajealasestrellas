@@ -1,0 +1,15 @@
+Installing Docker in OSX 10.9.5
+================================
+
+These are the steps that worked:
+
+::
+
+	brew install docker
+	brew install docker-compose
+
+	docker-machine create --driver virtualbox dev
+	eval "$(docker-machine env dev)"
+
+	# test::
+	docker run -d -p 80:80 --name webserver nginx
