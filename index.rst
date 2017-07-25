@@ -1,4 +1,4 @@
-Teatro Ciencia
+Viaje a las Estrellas
 ===================================
 
 .. toctree::
