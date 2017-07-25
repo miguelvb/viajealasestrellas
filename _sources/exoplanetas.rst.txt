@@ -1,0 +1,16 @@
+Exoplanetas
+=============
+
+Links
+-------
+
+https://elpais.com/elpais/2017/06/28/ciencia/1498652564_912843.html
+https://exoplanetarchive.ipac.caltech.edu/index.html
+
+Tablas
+---------
+
+.. image:: images/exoplanets_list_bright_1.png
+
+.. image:: images/exoplanets_list_bright_2.png
+

@@ -1,0 +1,76 @@
+Viaje A las estrellas
+=======================
+
+Enlaces Educacion
+-------------------
+
+http://mcdonaldobservatory.org/teachers/classroom
+
+https://www.astrosociety.org/education/k-12-online-astronomy-activities/
+
+Mitología
+++++++++++++
+
+http://sino-platonic.org/complete/spp253_ancient_egyptian_constellations.pdf
+
+http://teideastro.com/assets/files/Astro/Mitos%20y%20constelaciones.pdf
+
+Datos varios
+--------------
+
+Velocidad de la tierra alrededor del sol: 30 km/s  (100 000 km/h)
+
+Velocidad del sistema solar alrededor del centro galáctico: 250 km/s (700 000 km/h)
+
+Velocidad de rotacion: lat 45:  300 m/s (1200 km/h)
+
+Velocidad de movimiento del sol hacia el sistema local (cerca de Vega) 20 km/s (70 000 km/h)
+
+Velocidad de la galaxia hacia el gran atractor: 500 km/s (2 millones km/h)
+
+Cefeidas
+----------
+
+(https://es.wikipedia.org/wiki/Delta_Cephei)
+
+Delta Cephei (δ Cephei) es la cuarta estrella en magnitud aparente de la constelación Cefeo. Es el prototipo de estrella variable Cefeida, a la que da su nombre. Fue la segunda de este tipo en ser descubierta (tras Eta Aquilae) y la que más cerca se encuentra del Sol.
+
+John Goodricke observó ya la variabilidad de esta estrella en 1784, la cual ocurre con una periodo de reloj de precisión de 5 días 8 horas 47 minutos y 32 segundos. Es una de las pocas estrellas variables cuyo cambio de brillo (entre las magnitudes 3,5 y 4,3) puede apreciarse a simple vista, sin ayuda de instrumentos.
+
+Delta Cephei tiene dos estrellas compañeras de 7º y 13º magnitud respectivamente, con la primera de las cuales (situada a 41 segundos de arco) se cree que forma una pareja física. Ambas están rodeadas por una nebulosa sólo visible en el infrarrojo, con un tamaño de 21.000 unidades astronómicas y un aspecto que recuerda a una onda de choque, habiendo sido originada debido a la pérdida de masa de ésta estrella.1
+
+El estudio de las estrellas variables tipo Delta Cephei ha proporcionado a los astrónomos valiosa información, principalmente para la medición de distancias astronómicas.
+
+Características
+++++++++++++++++
+
+Las cefeidas presentan modulaciones periódicas de luminosidad extremadamente regulares y, de las variables pulsantes, son las que presentan menores irregularidades en la duración del período de pulsación. Actualmente, se han observado más de 400 cefeidas en nuestra galaxia, en cúmulos globulares como M3, M13 (tres) o M92 (sólo una), y otras 1.000 se han identificado en las Nubes de Magallanes, dos galaxias muy próximas a la nuestra. Además, se han observado un número significativo de cefeidas en otras galaxias próximas (por ejemplo Andrómeda o M31, M101, etc).
+
+Las modulaciones de luminosidad que presenta durante todo el ciclo suelen estar comprendidas entre un mínimo de 0,35 y un máximo de 1,5 magnitudes, lo que corresponde a un incremento de cuatro veces el flujo de luz.
+
+Cefeidas como indicadores de distancia
+
+Existe una relación, llamada ley período-luminosidad, que vincula directamente la magnitud absoluta de una estrella cefeida, calculada en el máximo de su curva, con el valor de su período de pulsación. El aumento de la luminosidad de las cefeidas en función del período, tomado de la relación período-luminosidad, es compatible con la teoría de la pulsación estelar según la cual la luminosidad depende del radio y, a su vez, este último es proporcional al período. La consecuencia más importante de la relación período-luminosidad es que proporciona un método razonablemente seguro para evaluar la magnitud absoluta de una cefeida. Una vez conocida ésta, es posible conocer la distancia calculando la diferencia respecto a la magnitud aparente (módulo de distancia). Por este motivo, las cefeidas tienen también el importante papel de indicadores de distancia. Como tales, su importancia en astronomía para la medida de las distancias extragalácticas es enorme. Por ejemplo, identificar una cefeida en una galaxia distante y medir su período de pulsación permite conocer inmediatamente su distancia, y con ella, la de la galaxia misma. El descubrimiento de la utilidad de las cefeidas como indicadores de distancia se lo debemos a las observaciones de Henrietta Swan Leavitt trabajando como voluntaria en el equipo del Observatorio del Harvard College, del cual sus superiores eran Edward Pickering y Edwin Hubble, que se llevaron inicialmente todo el mérito.
+
+
+Did other cultures also see constellations in the sky?
+----------------------------------------------------------
+
+(https://astrosociety.org/edu/publications/tnl/21/21.html#number)
+
+Nearly every culture on Earth has seen patterns in the stars. But, not surprisingly, very few have seen the same patterns. Take, for example, the Big Dipper, perhaps the most recognizable star pattern in the sky. The Big Dipper is not actually a constellation itself, but is part of a larger pattern known to the Greeks as Ursa Major, the Great Bear. The seven stars of the Big Dipper have inspired many stories, perhaps because they are bright and located so near the north celestial pole, around which the stars rotate during the course of the night. But not everyone calls it a Dipper. The British call it a Plough. In Southern France, it is a Saucepan. The Skidi Pawnee Indians saw a stretcher on which a sick man was carried. To the ancient Maya, it was a mythological parrot named Seven Macaw. Hindu sky lore called it the Seven Rishis, or Wise Men. To the early Egyptians, it was the thigh and leg of a bull. The ancient Chinese thought of it as a special chariot for the Emperor of the Heaven or some other celestial bureaucrat. For the Micmac Indians of Canada's Maritime Provinces, along with several other North American Indian tribes, the bowl of the Big Dipper was a bear, and the stars in the handle represented hunters tracking the bear. And in the nineteenth century, the Big Dipper became a symbol of freedom for runaway slaves, who "followed the Drinking Gourd" to the northern states.
+
+Where do individual star names come from?
+--------------------------------------------
+
+(https://astrosociety.org/edu/publications/tnl/21/21.html)
+
+The ancient Greek tradition was to name stars by their position within a constellation. For example, Ptolemy refers to one star by the description "the reddish one on the southern eye," a star we now know as Aldebaran in the constellation of Taurus the Bull. But these descriptions could get quite involved. Ptolemy refers to another star in the obsolete constellation of Argo the Boat as "the northernmost of two stars close together over the little shield in the poop," a bit cumbersome if you are trying to learn the names of many stars.
+When Al-Sufi, one of the greatest Arabic astronomers, published his own version of Ptolemy's Almagest in the tenth century, he introduced many individual star names. For centuries, bedouin Arabs had given names to bright stars — for example Aldebaran and Betelgeuse — since they regarded single stars as representing people and animals. Many of the original meanings of the names had been forgotten even in Al-Sufi's time, but some were direct translations of Ptolemy's descriptions. For example, the star name Fomalhaut (in the constellation of Pisces) comes from the Arabic for "mouth of the southern fish," which is how Ptolemy described it in the Almagest.
+
+After the tenth century, the works of Ptolemy and others were re-introduced into Europe by the Islamic Arabs, and the Greek books were translated from Arabic into Latin, the scientific language of the day. Thus we know Ptolemy's work from its Arabic translation, The Almagest, not by its original Greek title. And it explains why we have a system of Greek constellations with Latin names containing stars with Arabic names.
+
+
+
+
+
