@@ -15,6 +15,8 @@ Viaje a las Estrellas
    estrellas_variables
    estrellas_grandes
    galaxia
+   telescopios
+   binarias
 
 Indices and tables
 ==================
