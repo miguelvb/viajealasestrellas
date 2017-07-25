@@ -71,6 +71,12 @@ When Al-Sufi, one of the greatest Arabic astronomers, published his own version 
 After the tenth century, the works of Ptolemy and others were re-introduced into Europe by the Islamic Arabs, and the Greek books were translated from Arabic into Latin, the scientific language of the day. Thus we know Ptolemy's work from its Arabic translation, The Almagest, not by its original Greek title. And it explains why we have a system of Greek constellations with Latin names containing stars with Arabic names.
 
 
+Mean and Extreme Values
+--------------------------
+
+.. image:: images/mean_and_extreme_values.png
+
+
 
 
 

@@ -136,8 +136,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TeatroCiencia.tex', u'TeatroCiencia',
-     u'TeatroCiencia', 'manual'),
+    (master_doc, 'ViajeALasEstrellas.tex', u'ViajeALasEstrellas',
+     u'ViajeALasEstrellas', 'manual'),
 ]
 
 
@@ -146,7 +146,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'TeatroCiencia', u'TeatroCiencia',
+    (master_doc, 'ViajeALasEstrellas', u'ViajeALasEstrellas',
      [author], 1)
 ]
 
