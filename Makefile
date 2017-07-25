@@ -24,7 +24,8 @@ GHPAGES		    = git subtree push --prefix $(BUILDDIR)/html  origin gh-pages
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
-	@echo "  html       to make standalone HTML files and push to github"
+	@echo "  html       to make standalone HTML files"
+	@echo "  github     to add all files and push to master and push to branch gh-pages"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
 	@echo "  pickle     to make pickle files"
@@ -52,9 +53,16 @@ clean:
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
-	$(GHPAGES)
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+
+github:
+	git add .
+	git commit -m $(message)
+	git push
+	$(GHPAGES)
+	@echo
+	@echo "Added All Files and pushed to git finished."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
