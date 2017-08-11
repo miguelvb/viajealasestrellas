@@ -1,5 +1,5 @@
 Binarias
-----------
+==========
 
 .. image:: images/binaries_binoculars.png
 
