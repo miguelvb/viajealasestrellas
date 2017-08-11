@@ -17,6 +17,8 @@ Viaje a las Estrellas
    galaxia
    telescopios
    binarias
+   archeo
+   programas
 
 Indices and tables
 ==================
