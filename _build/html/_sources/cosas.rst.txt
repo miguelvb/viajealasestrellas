@@ -11,6 +11,13 @@ Cosas
 - tb periodo fin del pérmico, extinción masiva, 97% especies kaput. Despues de eso es cuanfo los reptiles conquistan la tierra.
 
 
+Asociaciones y Revistas
+---------------------------
+
+
+	Huelva: (bastante activa parece...) : http://asociacionandromeda.blogspot.dk/
+	El Observador de Estrellas Dobles: https://elobservadordeestrellasdobles.wordpress.com/?ref=spelling
+
 Varios
 ------------
 
@@ -24,6 +31,8 @@ V762 CAS: 16 000ly ! , 5.87m,
 M31, a 2.6 millones es el más lejano a simple vista.
 
 solo 2 o 3 supernovas por cada 100 años en la galaxia... 
+
+distancia media entre estrellas en la galaxia: 5 ly
 
 Distribucion en distancias
 ----------------------------

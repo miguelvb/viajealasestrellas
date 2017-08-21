@@ -62,6 +62,22 @@ Montados en una bola gigante, rotando a la velocidad de un avión. Esa bola gira
 	También como lugar donde contar las historias que forjan la cultura, etc. (leyendas, mitos, etc.)
 	Planetas, estrellas fugaces, la luna, supernovas...
 
+Antiguas creencias
++++++++++++++++++++++
+
+* **Egipto** : Las estrellas son decoraciones del cuerpo de Nut, la diosa del cielo. Tenían una lista de 10 estrellas que buscaban al aparecer en el atardecer en el este para marcar las estaciones. Las orientaciones de pirámides, etc. era sobre todo para facilitar a los faraones el poder situarse entre las estrellas cuando morían ...
+
+* **Cheyennes** : Las estrellas son el resultado del creador que empezó el universo haciendo un fuego y al chocar sus manos las ascuas se elevaron haciendo las estrellas
+
+* **Vikingos** : Los dioses tomaron las ascuas y cenizas originadas al soplar en el reino del fuego y las situaron en el vacío primordial (firmamento) tanto abajo como arriba, para iluminar el cielo y la tierra. Dieron su lugar a cada uno de esos fuegos, algunos fijos, algunos errantes bajo el cielo, y los colocaron en sus lugares y ordenaron sus cursos...
+
+* **Navajos** : El dios negro coloca las estrellas cuidadosamente en el cielo tomando cristales de su bolsita para hacer un arreglo bonito. Mientras descansa, Coyote vio la bolsa y pensando que era algo comestible, se escapa con ella, desparramando las estrellas en el cielo. El coyote aulla en las noches para pedir perdón por lo hecho...
+
+* **Aborígenes Australia** : Algunos pensaban las estrellas eran fuegos de campamentos de los pueblos del cielo. Otros pensaban que eran conchas de nautilus, y otros que eran los muertos. Otra historia interesante:
+
+> *"Más allá del horizonte, donde nadie ha estado nunca, hay una tierra preciosa con valles herbosos y colinas cubiertas de árboles. Los que viven allí son lunas. No tienen brazos o piernas, y se mueven rápidamente por la hierba rodando... Fuera del valle vive un gigante. Coge una luna y con su cuchillo le corta una rodaja cada noche, hasta que después de muchas noches no queda nada salvo varias astillas brillantes. Las corta en trozos pequeños y las arroja al cielo. Son criatura bien tímidas, esos trocitos de luna que se convierten en estrellas"*
+
+Otros relatos explican el firmamento como un fuego que vemos a través de agujeros en la esfera celeste...
 
 2. Donde estamos? La galaxia y nuestro vencindario
 ----------------------------------------------------

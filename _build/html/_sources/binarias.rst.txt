@@ -3,6 +3,15 @@ Binarias
 
 .. image:: images/binaries_binoculars.png
 
+WDS CATALOG PARA BINOCULARS
+-----------------------------
+
+Ver aqui: https://gist.github.com/miguelvb/4767e0a5fbcbed08b9929950af15d095
+
+Hecho por mi... :-)
+
+Aqui discusión sobre ello: https://www.cloudynights.com/topic/444854-wds-catalog-in-csv-format/
+
 DOUBLE STARS FOR BINOCULARS
 ------------------------------
 

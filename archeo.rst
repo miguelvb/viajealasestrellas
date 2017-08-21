@@ -113,9 +113,37 @@ If one is outdoors and examines the same stars on successive days, the close obs
 This can even be seen in a few days – each day a star will rise 4 min earlier or shift about 1◦ west each day.
 The result is different stars are visible each day at dawn, during their “heliacal risings” and other stars disappear in the glare of the Sun at sunset during their “heliacal settings.” This more gradual or annual motion of the stars is the basis for tables of heliacal risings of stars constructed by the Greeks, Chinese, and Babylonian astronomers.
 
+Esto tomado `aqui <http://www.vikinganswerlady.com/stars.shtml>`_ , sobre mitología de las estrellas en los vikingos:
+
+* [Then they (the gods) took the sparks and burning embers that were flying about after they had been blown out of Muspellheimr, and placed them in the midst of the firmament (Ginnungagap) both above and below to give light heaven and earth. They gave their stations to all the fires, some fixed in the sky, some moved in a wandering course beneath the sky, but they appointed them places and ordained their courses.] (In Norse mythology, Muspelheim, also called Muspell, is a realm of fire. This realm is one of the Nine Worlds, ruled by Surtr with his consort Sinmara in some accounts.) (In Norse mythology, Ginnungagap is the primordial void, mentioned in the Gylfaginning, the Eddaic text recording Norse cosmogony. )
 
 Constelations
 ---------------
+
+VIKINGS 
+++++++++++
+
+(from `link <http://englishhistoryauthors.blogspot.dk/2013/12/what-did-vikings-and-saxons-call-stars.html>`_)
+
+Friggerock (Frigg’s distaff)– A distaff was part of spinning equipment and was seen as the three stars in Orion’s belt. What we see as a sword hanging from that belt was seen as the spindle. The goddess Frigga is often depicted with a spinning wheel.
+
+Thiassi’s Eyes– this consists of two Gemini stars Castor and Pollux, that are side by side of equal brightness resembling two eyes, reaching their peak in the sky at midnight in January. Thiassi was the name of a frost giant and father of Skandi goddess of winter.
+
+Dain – Dain was the name of one of the deer who lived in the World Tree. The bright star Vega is its eye, and the four Lyra stars form its antler.
+
+Dvalin– Another of the deer constellations, Much of the constellation  Cepheus make up the deer with the North Star its rear foot.
+
+Durathror Yet another deer made from much of the Perseus collection.
+
+Ratatosk – the squirrel constellation. Formed from Cassiopeia.
+
+Eagle – the eagle constellation  is how the Norse saw Cygnus the Swan.
+
+Nidhogg– This is the constellation of the serpent who lived and gnawed at the roots of the world tree Yggdrasill’s. The constellation we today call Scorpius, was Nidhogg.
+
+The Wagon or Hellewagen was formed by the modern Great Bear/ Plough/ Big Dipper. It was seen as a wagon maybe carrying the dead and probably was seen as Woden’s wagon.
+
+Loki’s Torch – This was the bright star Sirius.
 
 
 Ursa Major or “The Big Dipper”
@@ -134,6 +162,8 @@ One interesting take on the Ursa Major is a tale from the Micmac tribe of Nova S
 in the sky. In autumn, the bear rears back and Robin hits the bear with an arrow and it falls on its back, whereupon Robin jumps on the bear to begin devouring its prey. Robin tries to shake off the blood, and in the process scatters the red color to all the trees of the Earth. This is why Robin has a red breast, and why the trees turn red each autumn, according to the story. The bear cycles endlessly in the sky, its upside down form crosses the sky in winter, and then is “reborn” in Spring, ready to repeat the cosmic hunt. This story is particularly beautiful in the way it highlights both celestial and earthly cycles, with the changing of the seasons and the rotation of the night sky in perfect synchronicity.
 
 The Arabic names are mostly based on anatomical parts of the bear.
+
+Vikings (from `here <http://englishhistoryauthors.blogspot.dk/2013/12/what-did-vikings-and-saxons-call-stars.html>`_): The Wagon or Hellewagen was formed by the modern Great Bear/ Plough/ Big Dipper. It was seen as a wagon maybe carrying the dead and probably was seen as Woden’s wagon. We also find the names ‘Karlavagnen’, and ‘Karlsvagn’ translated as “the man’s chariot” which, along with the name ‘Kvennavagn’ ,or “woman’s chariot” given to Ursa Minor, suggests the gods associated with chariot driving; Thor and Freyja. (`see here <https://heathen-kindred.deviantart.com/journal/Norse-Constellations-and-the-Astronomy-of-Myth-219759725>`_)
 
 Draco – The Dragon
 +++++++++++++++++++
